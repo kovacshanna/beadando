@@ -1,0 +1,2 @@
+# beadando
+autokereskedes adatbazisa

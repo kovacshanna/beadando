@@ -4,6 +4,6 @@ Ez az adatbázis egy autókereskedő vállalkozás működését támogatja, lef
 Megjegyzés:
 A lekérdezéseket elsődlegesen SQLLite-ban készítettük.
 Csoporttagok: 
-Kovács Hanna
-Kotroczó Bálint
+Kovács Hanna RFGXRQ
+Kotroczó Bálint FXFACS
 Szőke Péter

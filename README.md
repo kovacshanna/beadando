@@ -6,4 +6,4 @@ A lekérdezéseket elsődlegesen SQLLite-ban készítettük.
 Csoporttagok: 
 Kovács Hanna RFGXRQ
 Kotroczó Bálint FXFACS
-Szőke Péter
+Szőke Péter H2OIN0
